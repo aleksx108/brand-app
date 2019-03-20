@@ -1,6 +1,14 @@
 body{
   background-color: #878787;
 }
+
+.hvr-underline-reveal:before{
+  background:#ff004f!important ;
+}
+
+.hvr-overline-reveal:before{
+  background:#ff004f !important;
+}
 #footer_link{
   color: #ff004c;
 }
